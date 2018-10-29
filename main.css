@@ -25,7 +25,7 @@ h3{
 }
 
 a {
-color: #C27684;
+color: white;
 text-decoration: none;
 }
 
@@ -34,4 +34,11 @@ text-decoration: none;
 img {
 display: block;
 margin: 0px auto;
+}
+
+b{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
